@@ -6,7 +6,7 @@ Health-Bud is a portable, smart health monitoring device that integrates multipl
 
 ## Block Diagram
 
-![Block Diagram](images/your-image.png)
+![Block Diagram](images/blockdiagram.jpg)
 
 ## Features
 
