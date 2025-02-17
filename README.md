@@ -48,7 +48,7 @@ Health-Bud is a portable, smart health monitoring device that integrates multipl
 4. **Data Logging & Syncing**: Readings are stored on an SD card and uploaded to Firestore for remote access.
 5. **Web Interface**: Users can view their health data, book medical appointments, and share records with doctors.
 
-![Block Diagram](images/blockdiagram.jpg)
+![Block Diagram](images/function.jpg)
 
 ## Installation & Usage
 
