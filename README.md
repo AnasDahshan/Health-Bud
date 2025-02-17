@@ -93,6 +93,8 @@ Health-Bud is a portable, smart health monitoring device that integrates multipl
 
 ## Web Interface Features
 
+![Web Interface](images/web.jpg)
+
 - **User Registration & Login**
 - **Live Health Data Monitoring**
 - **Heartbeat Sound Streaming**
