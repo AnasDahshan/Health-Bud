@@ -6,6 +6,8 @@
 
 Health-Bud is a portable, smart health monitoring device that integrates multiple sensors to measure vital health parameters project created for my Embeded Systems course. It features a contactless temperature sensor, a pulse oximeter, and a digital stethoscope, providing users with real-time health insights. Data is recorded locally and uploaded to the cloud, allowing remote access and analysis via a web-based interface.
 
+https://github.com/user-attachments/assets/eae2cb09-8c7e-4c13-b0cf-144175085844
+
 ## Block Diagram
 
 ![Block Diagram](images/blockdiagram.jpg)
